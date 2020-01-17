@@ -6,6 +6,8 @@ def initialize(name, grade, type, db, id=nil)
  @id = id
  @name = name
  @grade = grade
+ @type = type
+ @db = db
 end
 
   
