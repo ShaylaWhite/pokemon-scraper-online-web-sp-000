@@ -1,5 +1,5 @@
 class Pokemon
-  attr_accessor :name, :grade
+  attr_accessor :name, :grade, :type
   attr_reader :id
 
 def initialize(name, grade, id=nil)
