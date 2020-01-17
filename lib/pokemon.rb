@@ -10,6 +10,7 @@ class Pokemon
   end
 
   def
-end
+  
+  end
   
 end
